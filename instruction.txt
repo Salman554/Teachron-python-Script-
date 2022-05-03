@@ -1,0 +1,13 @@
+Intructions:
+
+Install python , vs code, selenium , chrome driver in your machine.
+Make a directory in which you keep python file , chrome driver.
+
+How to run: 
+
+Using a command python filename.py on vs code. 
+
+Commmand:
+pip install selenium 
+pip install pip 
+
