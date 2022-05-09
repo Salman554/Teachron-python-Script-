@@ -10,4 +10,7 @@ Using a command python filename.py on vs code.
 Commmand:
 pip install selenium 
 pip install pip 
+pip install schedule 
 
+GITHUB: 
+https://github.com/Salman554/Teachron-python-Script-.git
