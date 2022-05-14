@@ -11,6 +11,7 @@ Commmand:
 pip install selenium 
 pip install pip 
 pip install schedule 
+pip install pandas
 
 GITHUB: 
 https://github.com/Salman554/Teachron-python-Script-.git
